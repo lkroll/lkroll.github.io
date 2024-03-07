@@ -1,0 +1,18 @@
+# Setup
+title:               Erasmus+ Blog
+tagline:             'by Lennart Kroll'
+description:         'This is a blog to describe my stay in Tallinn for Erasmus+'
+url:                 https://lkroll.github.io
+baseurl:             ''
+paginate:            2
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Lennart Kroll
+  url:               ''
+  email:             ''
+
+# Gems
+plugins:
+  - jekyll-paginate
